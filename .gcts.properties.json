@@ -1,0 +1,14 @@
+{
+  "name": "zsapdev_cust",
+  "version": "1.0.0",
+  "description": "ZSAPDEV_CUST",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/86C4C7D7337B1FE09B921B67095B4B5E_0"
+  }
+}
